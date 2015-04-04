@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>dracula-33.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0, 305}, {37,82 }}</string>
+		</dict>
+		<key>dracula-32.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{37, 305}, {55,82 }}</string>
+		</dict>
+		<key>dracula-31.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{92, 305}, {60,82 }}</string>
+		</dict>
+		<key>dracula-30.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{152, 305}, {60,82 }}</string>
+		</dict>
+		<key>dracula-29.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{274, 1226}, {14,30}}</string>
+		</dict>
+		<key>dracula-28.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{260, 1226}, {16,30}}</string>
+		</dict>
+		<key>bat-8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{404, 1208}, {19,40}}</string>
+		</dict>
+		<key>bat-7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{386, 1208}, {17,40}}</string>
+		</dict>
+		<key>bat-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{370, 1208}, {15,40}}</string>
+		</dict>
+		<key>bat-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{354, 1208}, {15,40}}</string>
+		</dict>
+		<key>bat-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{338, 1208}, {15,40}}</string>
+		</dict>
+		<key>bat-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{322, 1208}, {15,40}}</string>
+		</dict>
+		<key>bat-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{306, 1208}, {15,40}}</string>
+		</dict>
+		<key>bat-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{290, 1208}, {16,40}}</string>
+		</dict>
+		<key>dracula-27.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{272, 1196}, {16,30}}</string>
+		</dict>
+		<key>dracula-26.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{256, 1196}, {16,30}}</string>
+		</dict>
+		<key>dracula-25.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{152, 305}, {60,82 }}</string>
+		</dict>
+		<key>dracula-24.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{92, 305}, {60,82 }}</string>
+		</dict>
+		<key>dracula-23.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{37, 305}, {55,82 }}</string>
+		</dict>
+		<key>dracula-22.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0, 305}, {37,82 }}</string>
+		</dict>
+		<key>attack-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{584, 25}, {30,100 }}</string>
+		</dict>
+		<key>attack-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{552, 25}, {30,100 }}</string>
+		</dict>
+		<key>attack-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{510, 0}, {40,150 }}</string>
+		</dict>
+		<key>attack-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{475, 0}, {30,150 }}</string>
+		</dict>
+		<key>attack-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{445, 0}, {30,150 }}</string>
+		</dict>
+		<key>dracula-21.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{312, 305}, {68,80 }}</string>
+		</dict>
+		<key>dracula-20.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{312, 225}, {68,80 }}</string>
+		</dict>
+		<key>dracula-19.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{244, 225}, {68,80 }}</string>
+		</dict>
+		<key>dracula-18.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{177, 225}, {67,80 }}</string>
+		</dict>
+		<key>dracula-17.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{122, 225}, {55,80 }}</string>
+		</dict>
+		<key>dracula-16.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{78, 225}, {44,80 }}</string>
+		</dict>
+		<key>dracula-15.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{37, 225}, {38,80 }}</string>
+		</dict>
+		<key>dracula-14.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0, 225}, {37,80 }}</string>
+		</dict>
+		<key>dracula-13.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{223, 144}, {49,81 }}</string>
+		</dict>
+		<key>dracula-12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{173, 144}, {49,81 }}</string>
+		</dict>
+		<key>dracula-11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{124, 144}, {48,81 }}</string>
+		</dict>
+		<key>dracula-10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{77, 144}, {47,81 }}</string>
+		</dict>
+		<key>dracula-9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{39, 144}, {38,81 }}</string>
+		</dict>
+		<key>dracula-8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0, 144}, {37,81 }}</string>
+		</dict>
+		<key>dracula-7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{280, 62}, {54,82 }}</string>
+		</dict>
+		<key>dracula-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{224, 62}, {54,82 }}</string>
+		</dict>
+		<key>dracula-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{168, 62}, {54,82 }}</string>
+		</dict>
+		<key>dracula-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{120, 62}, {48,82 }}</string>
+		</dict>
+		<key>dracula-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{78, 62}, {42,82 }}</string>
+		</dict>
+		<key>dracula-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{39, 62}, {37,82 }}</string>
+		</dict>
+		<key>dracula-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0, 62}, {37,82 }}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{1024, 2048}</string>
+	</dict>
+</dict>
+</plist>

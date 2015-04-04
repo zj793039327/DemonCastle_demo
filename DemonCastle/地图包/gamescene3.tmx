@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="29" height="19" tilewidth="10" tileheight="10">
+ <tileset firstgid="1" name="gamescene1" tilewidth="10" tileheight="10">
+  <image source="gamescene1.png" width="3693" height="1777"/>
+ </tileset>
+ <layer name="Foreground" width="29" height="19">
+  <data encoding="base64" compression="zlib">
+   eJwN1GMbkAcAQNF3cS0s27Zda2HZxlpYtrEWlm3btm3XWli2bbvOh/MP7nNnXgmCWcxmDnOZx3wWsJBFLGYJS1nGclawklWsZg1rWcd6NrCRTWxmC1uJfC0IohCVaEQnBjGJRWziEJd4xCcBCUlEYpKQlGQkJwUpSUVq0pCWdKSn9/Ug6ENf+tGfAQxkEIMZwlCGMZwRjGQUoxnDWMYxnglMZBKTmcJUpjGdlzeC4BWvecNb3vGeD3zkE5/5wle+EdwMgh8IQUhCEZowhOVHwvET4YlARCLR4FYQNKQRjWlCU5rRnBa0pBWtaUNb2tGeDnSkE53pQlf+oht/050e9KQXp28HwRnOco7zXOAil7jMFa5yjevc4Ca3uM0d7nKP+zzgIY94zBOe8oznFL0bBMUoTglKUorSlKEs5ShPBSpSicpUoSrVqE4NalKL36nNH9ShLvWoz4Z7emYTm9nCVraxnR3sZBe72cNe9rGfAxzkEIc5wlH+5Rj/cZwTnOQUqR7omTSkJR3pyUBGMpGZLGQlG9nJQU5ykZs85CUf+fmFAvxKQQpRmCJMeqhnpjCVaUxnBjOZxWzmMJd5zGcBC1nEYpawlGUsZwUrWcVq1rCWdYR7rGfCE4GIROJnIhOFqEQjOjGISSxiE4e4xCM+CUhIIhKThKQkIzkp6PZEz3SnBz3pxT/0pg996Ud/BjCQQQxmCEMZxnBGMJJRjGYMYxnHeCbw6KmeecJTnvGcF7zkFa95w1ve8Z4PfOQTn/nCV74RPPMLQhCSUIQmDGGp/VzP1KEu9ajPnzSgIY1oTBOa0ozmtKAlrWhNG9rSjvZ0oCOd6EwXunLshZ45zglOcor/Oc0ZznKO81zgIpe4zBWuco3r3OAmt7jNHe5yj/s8oMArPVOQQhSmCL9RlGIUpwQlKUVpylCWcpSnAhWpRGWqUJVqVKcGNanFytd6ZjVrWMs61rOBjWxiM1vYyja2s4Od7GI3e9jLPvZzgIMc4jBHOErit3omKclITgpSkorUpCEt6UhPBjKSicxkISvZyE4OcpKL3OQhL/nIz+h3emYs4xjPBCYyiclMYSrTmM4MZjKL2cxhLvOYzwIWsojFLGEpy1jOd5jPDG8=
+  </data>
+ </layer>
+ <objectgroup name="Collision" width="29" height="19">
+  <object x="0" y="1" width="43" height="77"/>
+  <object x="43" y="1" width="215" height="27"/>
+  <object x="257" y="2" width="33" height="188"/>
+  <object x="0" y="135" width="43" height="54"/>
+  <object x="44" y="174" width="213" height="16"/>
+ </objectgroup>
+ <objectgroup name="Collision1" width="29" height="19">
+  <object x="218" y="164" width="9" height="9"/>
+  <object x="227" y="155" width="10" height="9"/>
+  <object x="238" y="145" width="10" height="10"/>
+  <object x="248" y="136" width="9" height="9"/>
+ </objectgroup>
+ <objectgroup name="Collision2" width="29" height="19">
+  <object x="43" y="136" width="9" height="10"/>
+  <object x="52" y="146" width="9" height="10"/>
+  <object x="61" y="156" width="9" height="9"/>
+  <object x="71" y="165" width="9" height="9"/>
+ </objectgroup>
+</map>

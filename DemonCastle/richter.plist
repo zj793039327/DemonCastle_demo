@@ -1,0 +1,2799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>richter-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{126, 311}, {21, 44}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {21, 44}}</string>
+			<key>sourceSize</key>
+			<string>{21, 45}</string>
+		</dict>
+		<key>richter-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{815, 247}, {21, 43}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {21, 43}}</string>
+			<key>sourceSize</key>
+			<string>{21, 45}</string>
+		</dict>
+		<key>richter-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{63, 311}, {21, 42}}</string>
+			<key>offset</key>
+			<string>{0, -1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 3}, {21, 42}}</string>
+			<key>sourceSize</key>
+			<string>{21, 45}</string>
+		</dict>
+		<key>richter-attack-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{976, 202}, {23, 43}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {23, 43}}</string>
+			<key>sourceSize</key>
+			<string>{25, 44}</string>
+		</dict>
+		<key>richter-attack-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{190, 90}, {31, 43}}</string>
+			<key>offset</key>
+			<string>{0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {31, 43}}</string>
+			<key>sourceSize</key>
+			<string>{32, 44}</string>
+		</dict>
+		<key>richter-attack-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{446, 202}, {24, 43}}</string>
+			<key>offset</key>
+			<string>{0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {24, 43}}</string>
+			<key>sourceSize</key>
+			<string>{25, 44}</string>
+		</dict>
+		<key>richter-attack-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{838, 202}, {23, 42}}</string>
+			<key>offset</key>
+			<string>{-0.5, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 2}, {23, 42}}</string>
+			<key>sourceSize</key>
+			<string>{26, 44}</string>
+		</dict>
+		<key>richter-attack-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{650, 45}, {34, 40}}</string>
+			<key>offset</key>
+			<string>{-0.5, -2}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 4}, {34, 40}}</string>
+			<key>sourceSize</key>
+			<string>{35, 44}</string>
+		</dict>
+		<key>richter-attack-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{616, 45}, {34, 40}}</string>
+			<key>offset</key>
+			<string>{0, -2}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 4}, {34, 40}}</string>
+			<key>sourceSize</key>
+			<string>{34, 44}</string>
+		</dict>
+		<key>richter-attack-7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{477, 45}, {35, 40}}</string>
+			<key>offset</key>
+			<string>{-0.5, -2}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 4}, {35, 40}}</string>
+			<key>sourceSize</key>
+			<string>{36, 44}</string>
+		</dict>
+		<key>richter-attack-8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{201, 202}, {25, 38}}</string>
+			<key>offset</key>
+			<string>{-0.5, -3}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 6}, {25, 38}}</string>
+			<key>sourceSize</key>
+			<string>{28, 44}</string>
+		</dict>
+		<key>richter-attack-9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{266, 247}, {22, 41}}</string>
+			<key>offset</key>
+			<string>{0, -1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 3}, {22, 41}}</string>
+			<key>sourceSize</key>
+			<string>{24, 44}</string>
+		</dict>
+		<key>richter-attackup-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{772, 90}, {30, 29}}</string>
+			<key>offset</key>
+			<string>{1, -3.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{2, 7}, {30, 29}}</string>
+			<key>sourceSize</key>
+			<string>{32, 36}</string>
+		</dict>
+		<key>richter-attackup-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{422, 202}, {24, 36}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {24, 36}}</string>
+			<key>sourceSize</key>
+			<string>{24, 36}</string>
+		</dict>
+		<key>richter-attackup-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0, 202}, {26, 36}}</string>
+			<key>offset</key>
+			<string>{1, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{2, 0}, {26, 36}}</string>
+			<key>sourceSize</key>
+			<string>{28, 36}</string>
+		</dict>
+		<key>richter-attackup-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{542, 247}, {21, 64}}</string>
+			<key>offset</key>
+			<string>{3, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{6, 1}, {21, 64}}</string>
+			<key>sourceSize</key>
+			<string>{27, 65}</string>
+		</dict>
+		<key>richter-attackup-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{374, 247}, {21, 64}}</string>
+			<key>offset</key>
+			<string>{1, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{3, 1}, {21, 64}}</string>
+			<key>sourceSize</key>
+			<string>{25, 65}</string>
+		</dict>
+		<key>richter-attackup-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{563, 247}, {21, 64}}</string>
+			<key>offset</key>
+			<string>{0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{2, 1}, {21, 64}}</string>
+			<key>sourceSize</key>
+			<string>{24, 65}</string>
+		</dict>
+		<key>richter-attackupstop-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{749, 145}, {27, 45}}</string>
+			<key>offset</key>
+			<string>{-0.5, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {27, 45}}</string>
+			<key>sourceSize</key>
+			<string>{28, 47}</string>
+		</dict>
+		<key>richter-attackupstop-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{398, 202}, {24, 28}}</string>
+			<key>offset</key>
+			<string>{0.5, -9.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 19}, {24, 28}}</string>
+			<key>sourceSize</key>
+			<string>{25, 47}</string>
+		</dict>
+		<key>richter-attackupstop-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{112, 247}, {22, 28}}</string>
+			<key>offset</key>
+			<string>{-0.5, -9.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 19}, {22, 28}}</string>
+			<key>sourceSize</key>
+			<string>{23, 47}</string>
+		</dict>
+		<key>richter-attackupstop-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{134, 247}, {22, 28}}</string>
+			<key>offset</key>
+			<string>{-0.5, -9.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 19}, {22, 28}}</string>
+			<key>sourceSize</key>
+			<string>{23, 47}</string>
+		</dict>
+		<key>richter-crouchattack-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{585, 202}, {23, 29}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {23, 29}}</string>
+			<key>sourceSize</key>
+			<string>{25, 30}</string>
+		</dict>
+		<key>richter-crouchattack-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{562, 90}, {30, 29}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {30, 29}}</string>
+			<key>sourceSize</key>
+			<string>{30, 30}</string>
+		</dict>
+		<key>richter-crouchattack-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{76, 202}, {25, 30}}</string>
+			<key>offset</key>
+			<string>{0.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{2, 0}, {25, 30}}</string>
+			<key>sourceSize</key>
+			<string>{28, 30}</string>
+		</dict>
+		<key>richter-crouchattack-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{746, 202}, {23, 31}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {23, 31}}</string>
+			<key>sourceSize</key>
+			<string>{26, 32}</string>
+		</dict>
+		<key>richter-crouchattack-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{252, 90}, {31, 30}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {31, 30}}</string>
+			<key>sourceSize</key>
+			<string>{33, 30}</string>
+		</dict>
+		<key>richter-crouchattack-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{947, 45}, {32, 30}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {32, 30}}</string>
+			<key>sourceSize</key>
+			<string>{34, 30}</string>
+		</dict>
+		<key>richter-crouchattack-7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{785, 45}, {33, 30}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {33, 30}}</string>
+			<key>sourceSize</key>
+			<string>{33, 30}</string>
+		</dict>
+		<key>richter-crouchhit-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{126, 189}, {25, 45}}</string>
+			<key>offset</key>
+			<string>{0.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {25, 32}}</string>
+			<key>sourceSize</key>
+			<string>{26, 32}</string>
+		</dict>
+		<key>richter-crouchhit-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{830, 132}, {26, 45}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 32}}</string>
+			<key>sourceSize</key>
+			<string>{27, 32}</string>
+		</dict>
+		<key>richter-crouchhit-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{723, 191}, {23, 40}}</string>
+			<key>offset</key>
+			<string>{0.5, -1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 3}, {23, 29}}</string>
+			<key>sourceSize</key>
+			<string>{24, 32}</string>
+		</dict>
+		<key>richter-crouchhit-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{815, 189}, {23, 43}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 2}, {23, 30}}</string>
+			<key>sourceSize</key>
+			<string>{25, 32}</string>
+		</dict>
+		<key>richter-crouch-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{310, 247}, {22, 37}}</string>
+			<key>offset</key>
+			<string>{0, -4}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 8}, {22, 37}}</string>
+			<key>sourceSize</key>
+			<string>{22, 45}</string>
+		</dict>
+		<key>richter-crouch-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{493, 202}, {23, 30}}</string>
+			<key>offset</key>
+			<string>{0, -7.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 15}, {23, 30}}</string>
+			<key>sourceSize</key>
+			<string>{23, 45}</string>
+		</dict>
+		<key>richter-crouch-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{907, 202}, {23, 28}}</string>
+			<key>offset</key>
+			<string>{0, -8.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 17}, {23, 28}}</string>
+			<key>sourceSize</key>
+			<string>{23, 45}</string>
+		</dict>
+		<key>richter-die-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{232, 145}, {29, 19}}</string>
+			<key>offset</key>
+			<string>{0, -5.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 12}, {29, 19}}</string>
+			<key>sourceSize</key>
+			<string>{29, 32}</string>
+		</dict>
+		<key>richter-die-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{861, 202}, {23, 31}}</string>
+			<key>offset</key>
+			<string>{-0.5, 0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {23, 31}}</string>
+			<key>sourceSize</key>
+			<string>{26, 32}</string>
+		</dict>
+		<key>richter-die-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{435, 145}, {29, 19}}</string>
+			<key>offset</key>
+			<string>{0, -5.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 12}, {29, 19}}</string>
+			<key>sourceSize</key>
+			<string>{31, 32}</string>
+		</dict>
+		<key>richter-die-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{999, 202}, {23, 31}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {23, 31}}</string>
+			<key>sourceSize</key>
+			<string>{25, 31}</string>
+		</dict>
+		<key>richter-hit-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{21, 311}, {21, 43}}</string>
+			<key>offset</key>
+			<string>{0, -1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 3}, {21, 43}}</string>
+			<key>sourceSize</key>
+			<string>{23, 46}</string>
+		</dict>
+		<key>richter-hit-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{962, 247}, {21, 43}}</string>
+			<key>offset</key>
+			<string>{0, -1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 3}, {21, 43}}</string>
+			<key>sourceSize</key>
+			<string>{23, 46}</string>
+		</dict>
+		<key>richter-hit-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{608, 202}, {23, 43}}</string>
+			<key>offset</key>
+			<string>{0.5, -1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 3}, {23, 43}}</string>
+			<key>sourceSize</key>
+			<string>{24, 46}</string>
+		</dict>
+		<key>richter-hit-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{222, 247}, {22, 41}}</string>
+			<key>offset</key>
+			<string>{0, -2.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 5}, {22, 41}}</string>
+			<key>sourceSize</key>
+			<string>{24, 46}</string>
+		</dict>
+		<key>richter-hit-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{920, 247}, {21, 42}}</string>
+			<key>offset</key>
+			<string>{0, -2}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 4}, {21, 42}}</string>
+			<key>sourceSize</key>
+			<string>{23, 46}</string>
+		</dict>
+		<key>richter-jump-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{700, 202}, {23, 45}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {23, 45}}</string>
+			<key>sourceSize</key>
+			<string>{23, 46}</string>
+		</dict>
+		<key>richter-jump-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{68, 247}, {22, 37}}</string>
+			<key>offset</key>
+			<string>{0.5, -2.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 5}, {22, 37}}</string>
+			<key>sourceSize</key>
+			<string>{23, 42}</string>
+		</dict>
+		<key>richter-jump-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{930, 202}, {23, 30}}</string>
+			<key>offset</key>
+			<string>{0.5, -4.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 9}, {23, 30}}</string>
+			<key>sourceSize</key>
+			<string>{24, 39}</string>
+		</dict>
+		<key>richter-jump-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{288, 247}, {22, 37}}</string>
+			<key>offset</key>
+			<string>{0.5, -2.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 5}, {22, 37}}</string>
+			<key>sourceSize</key>
+			<string>{23, 42}</string>
+		</dict>
+		<key>richter-jump-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{693, 145}, {28, 37}}</string>
+			<key>offset</key>
+			<string>{0, -2.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 5}, {28, 37}}</string>
+			<key>sourceSize</key>
+			<string>{28, 42}</string>
+		</dict>
+		<key>richter-jump-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{261, 145}, {29, 42}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {29, 42}}</string>
+			<key>sourceSize</key>
+			<string>{29, 44}</string>
+		</dict>
+		<key>richter-jump-7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{986, 145}, {26, 45}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {26, 45}}</string>
+			<key>sourceSize</key>
+			<string>{26, 46}</string>
+		</dict>
+		<key>richter-jump-8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{374, 202}, {24, 43}}</string>
+			<key>offset</key>
+			<string>{0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 2}, {24, 43}}</string>
+			<key>sourceSize</key>
+			<string>{25, 46}</string>
+		</dict>
+		<key>richter-jumpdown-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{276, 202}, {25, 30}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {25, 30}}</string>
+			<key>sourceSize</key>
+			<string>{26, 31}</string>
+		</dict>
+		<key>richter-jumpdown-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{441, 45}, {36, 37}}</string>
+			<key>offset</key>
+			<string>{0.5, 0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {36, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 38}</string>
+		</dict>
+		<key>richter-jumphit-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{665, 145}, {28, 44}}</string>
+			<key>offset</key>
+			<string>{0.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{2, 1}, {28, 44}}</string>
+			<key>sourceSize</key>
+			<string>{31, 46}</string>
+		</dict>
+		<key>richter-jumphit-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{953, 202}, {23, 45}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {23, 45}}</string>
+			<key>sourceSize</key>
+			<string>{25, 46}</string>
+		</dict>
+		<key>richter-pointsky-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{345, 90}, {31, 40}}</string>
+			<key>offset</key>
+			<string>{0, -8}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 16}, {31, 40}}</string>
+			<key>sourceSize</key>
+			<string>{33, 56}</string>
+		</dict>
+		<key>richter-pointsky-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{96, 90}, {32, 39}}</string>
+			<key>offset</key>
+			<string>{0, -8.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 17}, {32, 39}}</string>
+			<key>sourceSize</key>
+			<string>{32, 56}</string>
+		</dict>
+		<key>richter-pointsky-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{592, 90}, {30, 55}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {30, 55}}</string>
+			<key>sourceSize</key>
+			<string>{31, 56}</string>
+		</dict>
+		<key>richter-pointsky-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{376, 90}, {31, 55}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {31, 55}}</string>
+			<key>sourceSize</key>
+			<string>{31, 56}</string>
+		</dict>
+		<key>richter-rest-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{458, 247}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{2, 1}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{24, 46}</string>
+		</dict>
+		<key>richter-rest-10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{189, 311}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{21, 46}</string>
+		</dict>
+		<key>richter-rest-11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{105, 311}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{22, 46}</string>
+		</dict>
+		<key>richter-rest-12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{752, 247}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{22, 46}</string>
+		</dict>
+		<key>richter-rest-13.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{437, 247}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{22, 46}</string>
+		</dict>
+		<key>richter-rest-14.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{252, 311}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{2, 1}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{24, 46}</string>
+		</dict>
+		<key>richter-rest-15.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{479, 247}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{2, 1}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{25, 46}</string>
+		</dict>
+		<key>richter-rest-16.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{857, 247}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{22, 46}</string>
+		</dict>
+		<key>richter-rest-17.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{836, 247}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{0.5, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{24, 47}</string>
+		</dict>
+		<key>richter-rest-18.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{353, 247}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 2}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{23, 47}</string>
+		</dict>
+		<key>richter-rest-19.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{584, 247}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 2}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{23, 47}</string>
+		</dict>
+		<key>richter-rest-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{647, 247}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{22, 46}</string>
+		</dict>
+		<key>richter-rest-20.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{147, 311}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{0.5, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 2}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{22, 47}</string>
+		</dict>
+		<key>richter-rest-21.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{416, 247}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 2}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{23, 47}</string>
+		</dict>
+		<key>richter-rest-22.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{878, 247}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{21, 47}</string>
+		</dict>
+		<key>richter-rest-23.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{273, 311}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{-0.5, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{22, 47}</string>
+		</dict>
+		<key>richter-rest-24.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{42, 311}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 2}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{23, 47}</string>
+		</dict>
+		<key>richter-rest-25.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{941, 247}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 2}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{23, 47}</string>
+		</dict>
+		<key>richter-rest-26.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{689, 247}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{-0.5, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{22, 47}</string>
+		</dict>
+		<key>richter-rest-27.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0, 311}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{0.5, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 2}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{22, 47}</string>
+		</dict>
+		<key>richter-rest-28.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{721, 145}, {28, 45}}</string>
+			<key>offset</key>
+			<string>{-0.5, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {28, 45}}</string>
+			<key>sourceSize</key>
+			<string>{29, 47}</string>
+		</dict>
+		<key>richter-rest-29.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{710, 247}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{-0.5, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{22, 47}</string>
+		</dict>
+		<key>richter-rest-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{84, 311}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{23, 46}</string>
+		</dict>
+		<key>richter-rest-30.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{983, 247}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 2}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{23, 47}</string>
+		</dict>
+		<key>richter-rest-31.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{332, 247}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{-0.5, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 2}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{24, 47}</string>
+		</dict>
+		<key>richter-rest-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{210, 311}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{23, 46}</string>
+		</dict>
+		<key>richter-rest-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{773, 247}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{22, 46}</string>
+		</dict>
+		<key>richter-rest-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{899, 247}, {21, 46}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {21, 46}}</string>
+			<key>sourceSize</key>
+			<string>{21, 46}</string>
+		</dict>
+		<key>richter-rest-7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{395, 247}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{22, 46}</string>
+		</dict>
+		<key>richter-rest-8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{731, 247}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{23, 46}</string>
+		</dict>
+		<key>richter-rest-9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{794, 247}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{23, 46}</string>
+		</dict>
+		<key>richter-rollback-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{792, 202}, {23, 45}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {23, 45}}</string>
+			<key>sourceSize</key>
+			<string>{23, 46}</string>
+		</dict>
+		<key>richter-rollback-10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{580, 145}, {29, 42}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {29, 42}}</string>
+			<key>sourceSize</key>
+			<string>{29, 43}</string>
+		</dict>
+		<key>richter-rollback-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{915, 45}, {32, 29}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {32, 29}}</string>
+			<key>sourceSize</key>
+			<string>{33, 30}</string>
+		</dict>
+		<key>richter-rollback-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{126, 45}, {42, 24}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {42, 24}}</string>
+			<key>sourceSize</key>
+			<string>{44, 24}</string>
+		</dict>
+		<key>richter-rollback-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{884, 202}, {23, 37}}</string>
+			<key>offset</key>
+			<string>{0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {23, 37}}</string>
+			<key>sourceSize</key>
+			<string>{24, 38}</string>
+		</dict>
+		<key>richter-rollback-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{883, 45}, {32, 29}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {32, 29}}</string>
+			<key>sourceSize</key>
+			<string>{32, 30}</string>
+		</dict>
+		<key>richter-rollback-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{682, 90}, {30, 29}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {30, 29}}</string>
+			<key>sourceSize</key>
+			<string>{30, 29}</string>
+		</dict>
+		<key>richter-rollback-7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{874, 0}, {42, 28}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {42, 28}}</string>
+			<key>sourceSize</key>
+			<string>{43, 29}</string>
+		</dict>
+		<key>richter-rollback-8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{832, 90}, {30, 35}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {30, 35}}</string>
+			<key>sourceSize</key>
+			<string>{31, 35}</string>
+		</dict>
+		<key>richter-rollback-9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{353, 311}, {19, 43}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {19, 43}}</string>
+			<key>sourceSize</key>
+			<string>{19, 43}</string>
+		</dict>
+		<key>richter-rollforward-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0, 45}, {42, 28}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {42, 28}}</string>
+			<key>sourceSize</key>
+			<string>{42, 28}</string>
+		</dict>
+		<key>richter-rollforward-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{712, 90}, {30, 29}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {30, 29}}</string>
+			<key>sourceSize</key>
+			<string>{30, 29}</string>
+		</dict>
+		<key>richter-rollforward-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{176, 202}, {25, 44}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {25, 44}}</string>
+			<key>sourceSize</key>
+			<string>{25, 44}</string>
+		</dict>
+		<key>richter-rollforward-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{916, 0}, {42, 28}}</string>
+			<key>offset</key>
+			<string>{0.5, 0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {42, 28}}</string>
+			<key>sourceSize</key>
+			<string>{43, 29}</string>
+		</dict>
+		<key>richter-rollforward-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{862, 90}, {30, 29}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {30, 29}}</string>
+			<key>sourceSize</key>
+			<string>{30, 30}</string>
+		</dict>
+		<key>richter-rollforward-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{908, 145}, {26, 24}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 24}}</string>
+			<key>sourceSize</key>
+			<string>{26, 24}</string>
+		</dict>
+		<key>richter-rollforward-7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{328, 45}, {40, 24}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {40, 24}}</string>
+			<key>sourceSize</key>
+			<string>{41, 24}</string>
+		</dict>
+		<key>richter-run-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{666, 311}, {17, 44}}</string>
+			<key>offset</key>
+			<string>{0.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {17, 44}}</string>
+			<key>sourceSize</key>
+			<string>{18, 44}</string>
+		</dict>
+		<key>richter-run-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{168, 311}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{22, 46}</string>
+		</dict>
+		<key>richter-run-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{637, 145}, {28, 44}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 2}, {28, 44}}</string>
+			<key>sourceSize</key>
+			<string>{30, 46}</string>
+		</dict>
+		<key>richter-run-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{718, 45}, {34, 41}}</string>
+			<key>offset</key>
+			<string>{0, 1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {34, 41}}</string>
+			<key>sourceSize</key>
+			<string>{36, 46}</string>
+		</dict>
+		<key>richter-run-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{979, 45}, {32, 45}}</string>
+			<key>offset</key>
+			<string>{0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{2, 1}, {32, 45}}</string>
+			<key>sourceSize</key>
+			<string>{35, 46}</string>
+		</dict>
+		<key>richter-run-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{314, 311}, {20, 45}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {20, 45}}</string>
+			<key>sourceSize</key>
+			<string>{21, 46}</string>
+		</dict>
+		<key>richter-run-7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{116, 145}, {29, 43}}</string>
+			<key>offset</key>
+			<string>{0, -1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 3}, {29, 43}}</string>
+			<key>sourceSize</key>
+			<string>{31, 46}</string>
+		</dict>
+		<key>richter-run-8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{547, 45}, {35, 43}}</string>
+			<key>offset</key>
+			<string>{0, 0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {35, 43}}</string>
+			<key>sourceSize</key>
+			<string>{37, 46}</string>
+		</dict>
+		<key>richter-run-9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{531, 90}, {31, 44}}</string>
+			<key>offset</key>
+			<string>{-0.5, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {31, 44}}</string>
+			<key>sourceSize</key>
+			<string>{32, 46}</string>
+		</dict>
+		<key>richter-runstop-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{652, 90}, {30, 37}}</string>
+			<key>offset</key>
+			<string>{0, -4.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 9}, {30, 37}}</string>
+			<key>sourceSize</key>
+			<string>{30, 46}</string>
+		</dict>
+		<key>richter-runstop-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{851, 45}, {32, 37}}</string>
+			<key>offset</key>
+			<string>{0.5, -4.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 9}, {32, 37}}</string>
+			<key>sourceSize</key>
+			<string>{33, 46}</string>
+		</dict>
+		<key>richter-rush-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{856, 145}, {26, 43}}</string>
+			<key>offset</key>
+			<string>{-1, -3}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 6}, {26, 43}}</string>
+			<key>sourceSize</key>
+			<string>{28, 49}</string>
+		</dict>
+		<key>richter-rush-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{776, 145}, {27, 46}}</string>
+			<key>offset</key>
+			<string>{0, -1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 3}, {27, 46}}</string>
+			<key>sourceSize</key>
+			<string>{29, 49}</string>
+		</dict>
+		<key>richter-rush-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{42, 45}, {42, 31}}</string>
+			<key>offset</key>
+			<string>{-0.5, -7.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 15}, {42, 31}}</string>
+			<key>sourceSize</key>
+			<string>{43, 46}</string>
+		</dict>
+		<key>richter-rush-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{393, 0}, {55, 45}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {55, 45}}</string>
+			<key>sourceSize</key>
+			<string>{58, 46}</string>
+		</dict>
+		<key>richter-rush-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{84, 45}, {42, 44}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {42, 44}}</string>
+			<key>sourceSize</key>
+			<string>{44, 46}</string>
+		</dict>
+		<key>richter-rush-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{500, 0}, {50, 31}}</string>
+			<key>offset</key>
+			<string>{-0.5, -7.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 15}, {50, 31}}</string>
+			<key>sourceSize</key>
+			<string>{51, 46}</string>
+		</dict>
+		<key>richter-rush-7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{832, 0}, {42, 32}}</string>
+			<key>offset</key>
+			<string>{0, -7}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 14}, {42, 32}}</string>
+			<key>sourceSize</key>
+			<string>{42, 46}</string>
+		</dict>
+		<key>richter-rush-8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{646, 0}, {47, 39}}</string>
+			<key>offset</key>
+			<string>{0.5, -3.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 7}, {47, 39}}</string>
+			<key>sourceSize</key>
+			<string>{48, 46}</string>
+		</dict>
+		<key>richter-sun-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0, 145}, {29, 43}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {29, 43}}</string>
+			<key>sourceSize</key>
+			<string>{29, 44}</string>
+		</dict>
+		<key>richter-sun-10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{377, 145}, {29, 43}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {29, 43}}</string>
+			<key>sourceSize</key>
+			<string>{30, 44}</string>
+		</dict>
+		<key>richter-sun-11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{174, 145}, {29, 43}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {29, 43}}</string>
+			<key>sourceSize</key>
+			<string>{30, 44}</string>
+		</dict>
+		<key>richter-sun-12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{892, 90}, {29, 43}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {29, 43}}</string>
+			<key>sourceSize</key>
+			<string>{29, 44}</string>
+		</dict>
+		<key>richter-sun-13.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{551, 145}, {29, 43}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {29, 43}}</string>
+			<key>sourceSize</key>
+			<string>{30, 44}</string>
+		</dict>
+		<key>richter-sun-14.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{406, 145}, {29, 43}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {29, 43}}</string>
+			<key>sourceSize</key>
+			<string>{31, 44}</string>
+		</dict>
+		<key>richter-sun-15.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{29, 145}, {29, 43}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {29, 43}}</string>
+			<key>sourceSize</key>
+			<string>{29, 44}</string>
+		</dict>
+		<key>richter-sun-16.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{493, 145}, {29, 43}}</string>
+			<key>offset</key>
+			<string>{0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {29, 43}}</string>
+			<key>sourceSize</key>
+			<string>{30, 44}</string>
+		</dict>
+		<key>richter-sun-17.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{87, 145}, {29, 45}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {29, 45}}</string>
+			<key>sourceSize</key>
+			<string>{31, 46}</string>
+		</dict>
+		<key>richter-sun-18.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{32, 90}, {32, 46}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {32, 46}}</string>
+			<key>sourceSize</key>
+			<string>{32, 46}</string>
+		</dict>
+		<key>richter-sun-19.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{203, 145}, {29, 45}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {29, 45}}</string>
+			<key>sourceSize</key>
+			<string>{31, 46}</string>
+		</dict>
+		<key>richter-sun-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{128, 90}, {31, 42}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {31, 42}}</string>
+			<key>sourceSize</key>
+			<string>{31, 44}</string>
+		</dict>
+		<key>richter-sun-20.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{522, 145}, {29, 43}}</string>
+			<key>offset</key>
+			<string>{-0.5, -1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 3}, {29, 43}}</string>
+			<key>sourceSize</key>
+			<string>{32, 46}</string>
+		</dict>
+		<key>richter-sun-21.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{58, 145}, {29, 43}}</string>
+			<key>offset</key>
+			<string>{-0.5, -1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 3}, {29, 43}}</string>
+			<key>sourceSize</key>
+			<string>{30, 46}</string>
+		</dict>
+		<key>richter-sun-22.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{921, 90}, {29, 43}}</string>
+			<key>offset</key>
+			<string>{-0.5, -1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 3}, {29, 43}}</string>
+			<key>sourceSize</key>
+			<string>{30, 46}</string>
+		</dict>
+		<key>richter-sun-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{500, 90}, {31, 42}}</string>
+			<key>offset</key>
+			<string>{0.5, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 2}, {31, 42}}</string>
+			<key>sourceSize</key>
+			<string>{32, 44}</string>
+		</dict>
+		<key>richter-sun-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{438, 90}, {31, 42}}</string>
+			<key>offset</key>
+			<string>{0.5, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 2}, {31, 42}}</string>
+			<key>sourceSize</key>
+			<string>{32, 44}</string>
+		</dict>
+		<key>richter-sun-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{319, 145}, {29, 43}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {29, 43}}</string>
+			<key>sourceSize</key>
+			<string>{30, 44}</string>
+		</dict>
+		<key>richter-sun-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{221, 90}, {31, 42}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {31, 42}}</string>
+			<key>sourceSize</key>
+			<string>{31, 44}</string>
+		</dict>
+		<key>richter-sun-7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{159, 90}, {31, 42}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {31, 42}}</string>
+			<key>sourceSize</key>
+			<string>{31, 44}</string>
+		</dict>
+		<key>richter-sun-8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{469, 90}, {31, 42}}</string>
+			<key>offset</key>
+			<string>{-0.5, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {31, 42}}</string>
+			<key>sourceSize</key>
+			<string>{32, 44}</string>
+		</dict>
+		<key>richter-sun-9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{979, 90}, {29, 43}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {29, 43}}</string>
+			<key>sourceSize</key>
+			<string>{30, 44}</string>
+		</dict>
+		<key>richter-sweepingleg-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{950, 90}, {29, 42}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {29, 42}}</string>
+			<key>sourceSize</key>
+			<string>{30, 42}</string>
+		</dict>
+		<key>richter-sweepingleg-10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0, 247}, {23, 30}}</string>
+			<key>offset</key>
+			<string>{0.5, -6}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 12}, {23, 30}}</string>
+			<key>sourceSize</key>
+			<string>{24, 42}</string>
+		</dict>
+		<key>richter-sweepingleg-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{407, 90}, {31, 37}}</string>
+			<key>offset</key>
+			<string>{-1, -2.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 5}, {31, 37}}</string>
+			<key>sourceSize</key>
+			<string>{33, 42}</string>
+		</dict>
+		<key>richter-sweepingleg-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{248, 45}, {40, 31}}</string>
+			<key>offset</key>
+			<string>{0, -5.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 11}, {40, 31}}</string>
+			<key>sourceSize</key>
+			<string>{42, 42}</string>
+		</dict>
+		<key>richter-sweepingleg-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{168, 45}, {40, 24}}</string>
+			<key>offset</key>
+			<string>{0, -9}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 18}, {40, 24}}</string>
+			<key>sourceSize</key>
+			<string>{42, 42}</string>
+		</dict>
+		<key>richter-sweepingleg-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{786, 0}, {46, 19}}</string>
+			<key>offset</key>
+			<string>{0, -11.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 23}, {46, 19}}</string>
+			<key>sourceSize</key>
+			<string>{48, 42}</string>
+		</dict>
+		<key>richter-sweepingleg-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{448, 0}, {52, 16}}</string>
+			<key>offset</key>
+			<string>{-0.5, -13}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 26}, {52, 16}}</string>
+			<key>sourceSize</key>
+			<string>{53, 42}</string>
+		</dict>
+		<key>richter-sweepingleg-7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{740, 0}, {46, 19}}</string>
+			<key>offset</key>
+			<string>{0, -11.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 23}, {46, 19}}</string>
+			<key>sourceSize</key>
+			<string>{48, 42}</string>
+		</dict>
+		<key>richter-sweepingleg-8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{208, 45}, {40, 24}}</string>
+			<key>offset</key>
+			<string>{0.5, -9}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 18}, {40, 24}}</string>
+			<key>sourceSize</key>
+			<string>{41, 42}</string>
+		</dict>
+		<key>richter-sweepingleg-9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{960, 145}, {26, 24}}</string>
+			<key>offset</key>
+			<string>{0, -9}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 18}, {26, 24}}</string>
+			<key>sourceSize</key>
+			<string>{28, 42}</string>
+		</dict>
+		<key>richter-swingleg-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{803, 145}, {27, 46}}</string>
+			<key>offset</key>
+			<string>{0.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {27, 46}}</string>
+			<key>sourceSize</key>
+			<string>{28, 46}</string>
+		</dict>
+		<key>richter-swingleg-10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{301, 202}, {25, 44}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {25, 44}}</string>
+			<key>sourceSize</key>
+			<string>{25, 46}</string>
+		</dict>
+		<key>richter-swingleg-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{609, 145}, {28, 37}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 2}, {28, 37}}</string>
+			<key>sourceSize</key>
+			<string>{30, 39}</string>
+		</dict>
+		<key>richter-swingleg-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{693, 0}, {47, 32}}</string>
+			<key>offset</key>
+			<string>{-0.5, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 3}, {47, 32}}</string>
+			<key>sourceSize</key>
+			<string>{48, 36}</string>
+		</dict>
+		<key>richter-swingleg-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{159, 0}, {60, 32}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 3}, {60, 32}}</string>
+			<key>sourceSize</key>
+			<string>{62, 36}</string>
+		</dict>
+		<key>richter-swingleg-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{219, 0}, {60, 42}}</string>
+			<key>offset</key>
+			<string>{0, 0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {60, 42}}</string>
+			<key>sourceSize</key>
+			<string>{62, 43}</string>
+		</dict>
+		<key>richter-swingleg-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{405, 45}, {36, 42}}</string>
+			<key>offset</key>
+			<string>{0, 0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {36, 42}}</string>
+			<key>sourceSize</key>
+			<string>{38, 43}</string>
+		</dict>
+		<key>richter-swingleg-7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{26, 202}, {25, 44}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {25, 44}}</string>
+			<key>sourceSize</key>
+			<string>{26, 46}</string>
+		</dict>
+		<key>richter-swingleg-8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{226, 202}, {25, 44}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {25, 44}}</string>
+			<key>sourceSize</key>
+			<string>{25, 46}</string>
+		</dict>
+		<key>richter-swingleg-9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{251, 202}, {25, 44}}</string>
+			<key>offset</key>
+			<string>{0.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {25, 44}}</string>
+			<key>sourceSize</key>
+			<string>{26, 46}</string>
+		</dict>
+		<key>richter-walk-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{882, 145}, {26, 43}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {26, 43}}</string>
+			<key>sourceSize</key>
+			<string>{27, 44}</string>
+		</dict>
+		<key>richter-walk-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{631, 202}, {23, 44}}</string>
+			<key>offset</key>
+			<string>{0.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {23, 44}}</string>
+			<key>sourceSize</key>
+			<string>{24, 44}</string>
+		</dict>
+		<key>richter-walk-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{747, 311}, {16, 45}}</string>
+			<key>offset</key>
+			<string>{0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {16, 45}}</string>
+			<key>sourceSize</key>
+			<string>{17, 46}</string>
+		</dict>
+		<key>richter-walk-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{543, 311}, {18, 44}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {18, 44}}</string>
+			<key>sourceSize</key>
+			<string>{18, 44}</string>
+		</dict>
+		<key>richter-walk-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{934, 145}, {26, 43}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {26, 43}}</string>
+			<key>sourceSize</key>
+			<string>{26, 44}</string>
+		</dict>
+		<key>richter-walk-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{429, 311}, {19, 44}}</string>
+			<key>offset</key>
+			<string>{0.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {19, 44}}</string>
+			<key>sourceSize</key>
+			<string>{20, 44}</string>
+		</dict>
+		<key>richter-walk-7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{715, 311}, {16, 45}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {16, 45}}</string>
+			<key>sourceSize</key>
+			<string>{16, 46}</string>
+		</dict>
+		<key>richter-walk-8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{294, 311}, {20, 44}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 44}}</string>
+			<key>sourceSize</key>
+			<string>{20, 44}</string>
+		</dict>
+		<key>richter-walkdown-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{156, 247}, {22, 44}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {22, 44}}</string>
+			<key>sourceSize</key>
+			<string>{22, 45}</string>
+		</dict>
+		<key>richter-walkdown-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{811, 311}, {16, 46}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {16, 46}}</string>
+			<key>sourceSize</key>
+			<string>{18, 47}</string>
+		</dict>
+		<key>richter-walkdown-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{843, 311}, {16, 45}}</string>
+			<key>offset</key>
+			<string>{0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {16, 45}}</string>
+			<key>sourceSize</key>
+			<string>{17, 46}</string>
+		</dict>
+		<key>richter-walkdown-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{779, 311}, {16, 46}}</string>
+			<key>offset</key>
+			<string>{-0.5, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {16, 46}}</string>
+			<key>sourceSize</key>
+			<string>{17, 48}</string>
+		</dict>
+		<key>richter-walkdown-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{90, 247}, {22, 46}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {22, 46}}</string>
+			<key>sourceSize</key>
+			<string>{22, 47}</string>
+		</dict>
+		<key>richter-walkdown-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{827, 311}, {16, 46}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {16, 46}}</string>
+			<key>sourceSize</key>
+			<string>{17, 48}</string>
+		</dict>
+		<key>richter-walkdown-7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{683, 311}, {16, 45}}</string>
+			<key>offset</key>
+			<string>{0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {16, 45}}</string>
+			<key>sourceSize</key>
+			<string>{17, 46}</string>
+		</dict>
+		<key>richter-walkdown-8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{763, 311}, {16, 46}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {16, 46}}</string>
+			<key>sourceSize</key>
+			<string>{18, 47}</string>
+		</dict>
+		<key>richter-walkdown-9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{605, 247}, {21, 46}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {21, 46}}</string>
+			<key>sourceSize</key>
+			<string>{21, 47}</string>
+		</dict>
+		<key>richter-walkdownattack-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{23, 247}, {23, 45}}</string>
+			<key>offset</key>
+			<string>{-0.5, -1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 3}, {23, 45}}</string>
+			<key>sourceSize</key>
+			<string>{24, 48}</string>
+		</dict>
+		<key>richter-walkdownattack-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{145, 145}, {29, 45}}</string>
+			<key>offset</key>
+			<string>{0, -1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 3}, {29, 45}}</string>
+			<key>sourceSize</key>
+			<string>{31, 48}</string>
+		</dict>
+		<key>richter-walkdownattack-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{51, 202}, {25, 45}}</string>
+			<key>offset</key>
+			<string>{0, -1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 3}, {25, 45}}</string>
+			<key>sourceSize</key>
+			<string>{25, 48}</string>
+		</dict>
+		<key>richter-walkdownattack-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{350, 202}, {24, 45}}</string>
+			<key>offset</key>
+			<string>{-0.5, -1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 3}, {24, 45}}</string>
+			<key>sourceSize</key>
+			<string>{25, 48}</string>
+		</dict>
+		<key>richter-walkdownattack-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{512, 45}, {35, 41}}</string>
+			<key>offset</key>
+			<string>{0, -3.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 7}, {35, 41}}</string>
+			<key>sourceSize</key>
+			<string>{37, 48}</string>
+		</dict>
+		<key>richter-walkdownattack-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{818, 45}, {33, 41}}</string>
+			<key>offset</key>
+			<string>{0, -3.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 7}, {33, 41}}</string>
+			<key>sourceSize</key>
+			<string>{33, 48}</string>
+		</dict>
+		<key>richter-walkdownattack-7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{582, 45}, {34, 41}}</string>
+			<key>offset</key>
+			<string>{0, -3.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 7}, {34, 41}}</string>
+			<key>sourceSize</key>
+			<string>{34, 48}</string>
+		</dict>
+		<key>richter-walkdownattack-8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{101, 202}, {25, 39}}</string>
+			<key>offset</key>
+			<string>{-0.5, -4.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 9}, {25, 39}}</string>
+			<key>sourceSize</key>
+			<string>{26, 48}</string>
+		</dict>
+		<key>richter-walkdownattack-9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{769, 202}, {23, 43}}</string>
+			<key>offset</key>
+			<string>{-0.5, -2.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 5}, {23, 43}}</string>
+			<key>sourceSize</key>
+			<string>{24, 48}</string>
+		</dict>
+		<key>richter-walkdownhit-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{200, 247}, {22, 46}}</string>
+			<key>offset</key>
+			<string>{-0.5, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {22, 46}}</string>
+			<key>sourceSize</key>
+			<string>{23, 48}</string>
+		</dict>
+		<key>richter-walkdownhit-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{668, 247}, {21, 46}}</string>
+			<key>offset</key>
+			<string>{-0.5, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {21, 46}}</string>
+			<key>sourceSize</key>
+			<string>{22, 48}</string>
+		</dict>
+		<key>richter-walkdownhit-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{562, 202}, {23, 45}}</string>
+			<key>offset</key>
+			<string>{-0.5, -1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 3}, {23, 45}}</string>
+			<key>sourceSize</key>
+			<string>{24, 48}</string>
+		</dict>
+		<key>richter-walkdownhit-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{470, 202}, {23, 43}}</string>
+			<key>offset</key>
+			<string>{-0.5, -2.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 5}, {23, 43}}</string>
+			<key>sourceSize</key>
+			<string>{24, 48}</string>
+		</dict>
+		<key>richter-walkdownhit-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{178, 247}, {22, 44}}</string>
+			<key>offset</key>
+			<string>{0, -2}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 4}, {22, 44}}</string>
+			<key>sourceSize</key>
+			<string>{22, 48}</string>
+		</dict>
+		<key>richter-walkstop-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{649, 311}, {17, 44}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {17, 44}}</string>
+			<key>sourceSize</key>
+			<string>{17, 45}</string>
+		</dict>
+		<key>richter-walkstop-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{632, 311}, {17, 44}}</string>
+			<key>offset</key>
+			<string>{0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {17, 44}}</string>
+			<key>sourceSize</key>
+			<string>{18, 45}</string>
+		</dict>
+		<key>richter-walkstop-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{231, 311}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{21, 45}</string>
+		</dict>
+		<key>richter-walkstop-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{626, 247}, {21, 45}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {21, 45}}</string>
+			<key>sourceSize</key>
+			<string>{21, 45}</string>
+		</dict>
+		<key>richter-walkup-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{372, 311}, {19, 45}}</string>
+			<key>offset</key>
+			<string>{0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{2, 1}, {19, 45}}</string>
+			<key>sourceSize</key>
+			<string>{22, 46}</string>
+		</dict>
+		<key>richter-walkup-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{467, 311}, {19, 46}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {19, 46}}</string>
+			<key>sourceSize</key>
+			<string>{21, 47}</string>
+		</dict>
+		<key>richter-walkup-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{561, 311}, {18, 45}}</string>
+			<key>offset</key>
+			<string>{0.5, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 2}, {18, 45}}</string>
+			<key>sourceSize</key>
+			<string>{19, 47}</string>
+		</dict>
+		<key>richter-walkup-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{731, 311}, {16, 45}}</string>
+			<key>offset</key>
+			<string>{1, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{2, 1}, {16, 45}}</string>
+			<key>sourceSize</key>
+			<string>{18, 46}</string>
+		</dict>
+		<key>richter-walkup-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{579, 311}, {18, 45}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 2}, {18, 45}}</string>
+			<key>sourceSize</key>
+			<string>{20, 47}</string>
+		</dict>
+		<key>richter-walkup-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{500, 247}, {21, 43}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {21, 43}}</string>
+			<key>sourceSize</key>
+			<string>{22, 44}</string>
+		</dict>
+		<key>richter-walkup-7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{615, 311}, {17, 42}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 2}, {17, 42}}</string>
+			<key>sourceSize</key>
+			<string>{19, 44}</string>
+		</dict>
+		<key>richter-walkup-8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{859, 311}, {15, 45}}</string>
+			<key>offset</key>
+			<string>{0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{2, 1}, {15, 45}}</string>
+			<key>sourceSize</key>
+			<string>{18, 46}</string>
+		</dict>
+		<key>richter-walkup-9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{448, 311}, {19, 44}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 2}, {19, 44}}</string>
+			<key>sourceSize</key>
+			<string>{21, 46}</string>
+		</dict>
+		<key>richter-walkupattack-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{677, 202}, {23, 45}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {23, 45}}</string>
+			<key>sourceSize</key>
+			<string>{24, 46}</string>
+		</dict>
+		<key>richter-walkupattack-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{348, 145}, {29, 45}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {29, 45}}</string>
+			<key>sourceSize</key>
+			<string>{30, 46}</string>
+		</dict>
+		<key>richter-walkupattack-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{326, 202}, {24, 45}}</string>
+			<key>offset</key>
+			<string>{0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {24, 45}}</string>
+			<key>sourceSize</key>
+			<string>{25, 46}</string>
+		</dict>
+		<key>richter-walkupattack-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{521, 247}, {21, 43}}</string>
+			<key>offset</key>
+			<string>{0.5, -1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 3}, {21, 43}}</string>
+			<key>sourceSize</key>
+			<string>{22, 46}</string>
+		</dict>
+		<key>richter-walkupattack-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{684, 45}, {34, 41}}</string>
+			<key>offset</key>
+			<string>{0.5, -2}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 5}, {34, 41}}</string>
+			<key>sourceSize</key>
+			<string>{35, 47}</string>
+		</dict>
+		<key>richter-walkupattack-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{752, 45}, {33, 42}}</string>
+			<key>offset</key>
+			<string>{0, -2.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 5}, {33, 42}}</string>
+			<key>sourceSize</key>
+			<string>{33, 47}</string>
+		</dict>
+		<key>richter-walkupattack-7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{802, 90}, {30, 42}}</string>
+			<key>offset</key>
+			<string>{0.5, -2.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 5}, {30, 42}}</string>
+			<key>sourceSize</key>
+			<string>{31, 47}</string>
+		</dict>
+		<key>richter-walkupattack-8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{151, 202}, {25, 39}}</string>
+			<key>offset</key>
+			<string>{0, -4}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 8}, {25, 39}}</string>
+			<key>sourceSize</key>
+			<string>{25, 47}</string>
+		</dict>
+		<key>richter-walkupattack-9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{486, 311}, {19, 43}}</string>
+			<key>offset</key>
+			<string>{1, -2}</string>
+			<key>sourceColorRect</key>
+			<string>{{3, 4}, {19, 43}}</string>
+			<key>sourceSize</key>
+			<string>{23, 47}</string>
+		</dict>
+		<key>richter-walkuphit-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{597, 311}, {18, 46}}</string>
+			<key>offset</key>
+			<string>{0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{2, 1}, {18, 46}}</string>
+			<key>sourceSize</key>
+			<string>{21, 47}</string>
+		</dict>
+		<key>richter-walkuphit-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{410, 311}, {19, 46}}</string>
+			<key>offset</key>
+			<string>{0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {19, 46}}</string>
+			<key>sourceSize</key>
+			<string>{20, 47}</string>
+		</dict>
+		<key>richter-walkuphit-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{516, 202}, {23, 45}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {23, 45}}</string>
+			<key>sourceSize</key>
+			<string>{23, 47}</string>
+		</dict>
+		<key>richter-walkuphit-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{505, 311}, {19, 43}}</string>
+			<key>offset</key>
+			<string>{1, -2}</string>
+			<key>sourceColorRect</key>
+			<string>{{2, 4}, {19, 43}}</string>
+			<key>sourceSize</key>
+			<string>{21, 47}</string>
+		</dict>
+		<key>richter-walkuphit-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{334, 311}, {19, 45}}</string>
+			<key>offset</key>
+			<string>{0.5, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 2}, {19, 45}}</string>
+			<key>sourceSize</key>
+			<string>{20, 47}</string>
+		</dict>
+		<key>richter_135.gif</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 90}, {31, 42}}</string>
+			<key>offset</key>
+			<string>{0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {31, 42}}</string>
+			<key>sourceSize</key>
+			<string>{32, 43}</string>
+		</dict>
+		<key>richter_137.gif</key>
+		<dict>
+			<key>frame</key>
+			<string>{{290, 145}, {29, 43}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {29, 43}}</string>
+			<key>sourceSize</key>
+			<string>{29, 43}</string>
+		</dict>
+		<key>richter_138.gif</key>
+		<dict>
+			<key>frame</key>
+			<string>{{314, 90}, {31, 42}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {31, 42}}</string>
+			<key>sourceSize</key>
+			<string>{33, 43}</string>
+		</dict>
+		<key>richter_201.gif</key>
+		<dict>
+			<key>frame</key>
+			<string>{{539, 202}, {23, 44}}</string>
+			<key>offset</key>
+			<string>{0.5, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{2, 1}, {23, 44}}</string>
+			<key>sourceSize</key>
+			<string>{26, 46}</string>
+		</dict>
+		<key>richter_203.gif</key>
+		<dict>
+			<key>frame</key>
+			<string>{{64, 90}, {32, 42}}</string>
+			<key>offset</key>
+			<string>{0, 1}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {32, 42}}</string>
+			<key>sourceSize</key>
+			<string>{34, 46}</string>
+		</dict>
+		<key>richter_311.gif</key>
+		<dict>
+			<key>frame</key>
+			<string>{{598, 0}, {48, 25}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {48, 25}}</string>
+			<key>sourceSize</key>
+			<string>{48, 25}</string>
+		</dict>
+		<key>richter_313.gif</key>
+		<dict>
+			<key>frame</key>
+			<string>{{550, 0}, {48, 22}}</string>
+			<key>offset</key>
+			<string>{0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 2}, {48, 22}}</string>
+			<key>sourceSize</key>
+			<string>{49, 25}</string>
+		</dict>
+		<key>richter_318.gif</key>
+		<dict>
+			<key>frame</key>
+			<string>{{622, 90}, {30, 29}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {30, 29}}</string>
+			<key>sourceSize</key>
+			<string>{32, 30}</string>
+		</dict>
+		<key>richter_320.gif</key>
+		<dict>
+			<key>frame</key>
+			<string>{{958, 0}, {42, 28}}</string>
+			<key>offset</key>
+			<string>{0, -2}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 4}, {42, 28}}</string>
+			<key>sourceSize</key>
+			<string>{42, 32}</string>
+		</dict>
+		<key>richter_322.gif</key>
+		<dict>
+			<key>frame</key>
+			<string>{{742, 90}, {30, 29}}</string>
+			<key>offset</key>
+			<string>{-0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {30, 29}}</string>
+			<key>sourceSize</key>
+			<string>{31, 30}</string>
+		</dict>
+		<key>richter_347.gif</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0, 90}, {32, 42}}</string>
+			<key>offset</key>
+			<string>{0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {32, 42}}</string>
+			<key>sourceSize</key>
+			<string>{33, 43}</string>
+		</dict>
+		<key>richter_362.gif</key>
+		<dict>
+			<key>frame</key>
+			<string>{{244, 247}, {22, 37}}</string>
+			<key>offset</key>
+			<string>{1, -7.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{4, 19}, {22, 37}}</string>
+			<key>sourceSize</key>
+			<string>{28, 60}</string>
+		</dict>
+		<key>richter_473.gif</key>
+		<dict>
+			<key>frame</key>
+			<string>{{464, 145}, {29, 57}}</string>
+			<key>offset</key>
+			<string>{0, 0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {29, 57}}</string>
+			<key>sourceSize</key>
+			<string>{31, 58}</string>
+		</dict>
+		<key>richter_479.gif</key>
+		<dict>
+			<key>frame</key>
+			<string>{{654, 202}, {23, 45}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {23, 45}}</string>
+			<key>sourceSize</key>
+			<string>{23, 47}</string>
+		</dict>
+		<key>richter_482.gif</key>
+		<dict>
+			<key>frame</key>
+			<string>{{699, 311}, {16, 40}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {16, 40}}</string>
+			<key>sourceSize</key>
+			<string>{18, 42}</string>
+		</dict>
+		<key>richter_493.gif</key>
+		<dict>
+			<key>frame</key>
+			<string>{{391, 311}, {19, 43}}</string>
+			<key>offset</key>
+			<string>{0.5, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{2, 1}, {19, 43}}</string>
+			<key>sourceSize</key>
+			<string>{22, 44}</string>
+		</dict>
+		<key>richter_495.gif</key>
+		<dict>
+			<key>frame</key>
+			<string>{{524, 311}, {19, 43}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {19, 43}}</string>
+			<key>sourceSize</key>
+			<string>{19, 44}</string>
+		</dict>
+		<key>richter_498.gif</key>
+		<dict>
+			<key>frame</key>
+			<string>{{46, 247}, {22, 42}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {22, 42}}</string>
+			<key>sourceSize</key>
+			<string>{24, 42}</string>
+		</dict>
+		<key>attack-whip-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{368, 45}, {37, 30}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {37, 30}}</string>
+			<key>sourceSize</key>
+			<string>{39, 32}</string>
+		</dict>
+		<key>attack-whip-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{795, 311}, {16, 38}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {16, 38}}</string>
+			<key>sourceSize</key>
+			<string>{18, 39}</string>
+		</dict>
+		<key>attack-whip-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{288, 45}, {40, 24}}</string>
+			<key>offset</key>
+			<string>{0, -0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 2}, {40, 24}}</string>
+			<key>sourceSize</key>
+			<string>{42, 27}</string>
+		</dict>
+		<key>attack-whip-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{279, 0}, {58, 17}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 2}, {58, 17}}</string>
+			<key>sourceSize</key>
+			<string>{60, 21}</string>
+		</dict>
+		<key>attack-whip-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{337, 0}, {56, 10}}</string>
+			<key>offset</key>
+			<string>{-1, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {56, 10}}</string>
+			<key>sourceSize</key>
+			<string>{60, 12}</string>
+		</dict>
+		<key>attack-whip-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{97, 0}, {62, 8}}</string>
+			<key>offset</key>
+			<string>{0.5, 0.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{2, 0}, {62, 8}}</string>
+			<key>sourceSize</key>
+			<string>{65, 9}</string>
+		</dict>
+		<key>attack-whip-7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0, 0}, {97, 9}}</string>
+			<key>offset</key>
+			<string>{0, -1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 4}, {97, 9}}</string>
+			<key>sourceSize</key>
+			<string>{99, 14}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{1024, 512}</string>
+	</dict>
+</dict>
+</plist>

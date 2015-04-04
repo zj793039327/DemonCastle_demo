@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>magic.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{177, 5}, {5,100 }}</string>
+		</dict>
+		<key>magicbar.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{155, 5}, {22,100 }}</string>
+		</dict>
+		<key>lifebar.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{8, 0}, {110,100 }}</string>
+		</dict>
+		<key>life.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3, 3}, {5,92 }}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{512, 1136}</string>
+	</dict>
+</dict>
+</plist>

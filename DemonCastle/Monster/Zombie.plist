@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Zombie-blood-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{80,5}, {15,5 }}</string>
+		</dict>
+		<key>Zombie-waist-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{80,12}, {8,5 }}</string>
+		</dict>
+		<key>Zombie-leg-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{112,4}, {15,16 }}</string>
+		</dict>
+		<key>Zombie-leg-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{85,16}, {15,16 }}</string>
+		</dict>
+		<key>Zombie-head-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{48, 0}, {17,25 }}</string>
+		</dict>
+		<key>Zombie-head-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0, 0}, {17,25 }}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{512, 1136}</string>
+	</dict>
+</dict>
+</plist>
